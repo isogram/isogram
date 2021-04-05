@@ -6,6 +6,11 @@ I’m Muhammad Shidiq, a software engineer living in Jakarta, Indonesia. I am a 
 
 Several year later, I was introduced with the **true** programming in College like C, C++, Pascal, Visual Basic, Java, PHP, Python, Ruby etc. Then I knew about data structure, algorithms, software development lifecycle and many more. Today I working at [@Bhinneka](https://github.com/Bhinneka) one of biggest and mature e-commerce company in Indonesia.
 
+## Github Stats
+
+![](https://github.com/isogram/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/isogram/github-stats/blob/master/generated/languages.svg)
+
 ## Stay Connected
 
 💬 Twitter [@emshidiq](https://twitter.com/emshidiq)
