@@ -4,7 +4,11 @@ Hey, What’s up 👋!
 
 I’m Muhammad Shidiq, a software engineer living in Jakarta, Indonesia. I am a fan of technology, loves watching movies, listening music and a [Kopites](https://en.wikipedia.org/wiki/Liverpool_F.C.). I fell in love with programming quite late when I was at High School. At that day, I was buzzed with *"Creating Website with Microsoft Publisher"*. Yes, Microsoft Publisher! You are not misreading. I was play with HTML, CSS and JavaScript there.
 
-Several year later, I was introduced with the **true** programming in College like C, C++, Pascal, Visual Basic, Java, PHP, Python, Ruby etc. Then I knew about data structure, algorithms, software development lifecycle and many more. Today I working at [@Bhinneka](https://github.com/Bhinneka) one of biggest and mature e-commerce company in Indonesia.
+Several year later, I was introduced with the **true** programming in College. Then I knew about data structure, algorithms, software development lifecycle and many more.
+
+Today I working at [@Toku](https://toku.co)  
+![toku-img](https://cdn-bkcnk.nitrocdn.com/GUXtPIoDRfmANuZRyGQQSfLadxWYqbOq/assets/static/optimized/rev-5c640fe/wp-content/uploads/2019/08/Toku-New-High-Res-Logo-2019-Small.png)  
+Singapore based cloud communications provider for Voice, SMS, and APIs in APAC.
 
 ## Github Stats
 
