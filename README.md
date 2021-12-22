@@ -2,7 +2,7 @@
 
 Hey, What’s up 👋!
 
-I’m Muhammad Shidiq, a software engineer living in Jakarta, Indonesia. I am a fan of technology, loves watching movies, listening music and a [Kopites](https://en.wikipedia.org/wiki/Liverpool_F.C.). I fell in love with programming quite late when I was at High School. At that day, I was buzzed with *"Creating Website with Microsoft Publisher"*. Yes, Microsoft Publisher! You are not misreading. I was play with HTML, CSS and JavaScript there.
+I’m Muhammad Shidiq, a software engineer from Indonesia. I am a fan of technology, loves watching movies, listening music and a [Kopites](https://en.wikipedia.org/wiki/Liverpool_F.C.). I fell in love with programming quite late when I was at High School. At that day, I was buzzed with *"Creating Website with Microsoft Publisher"*. Yes, Microsoft Publisher! You are not misreading. I was play with HTML, CSS and JavaScript there.
 
 Several year later, I was introduced with the **true** programming in College. Then I knew about data structure, algorithms, software development lifecycle and many more.
 
