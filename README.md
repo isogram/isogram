@@ -7,7 +7,7 @@ I’m Muhammad Shidiq, a software engineer from Indonesia. I am a fan of technol
 Several years later, I was introduced with the **true** programming in College. Then I knew about data structure, algorithms, software development lifecycle and many more.
 
 Today I working at [@Toku](https://toku.co)  
-![toku-img](https://cdn-bkcnk.nitrocdn.com/GUXtPIoDRfmANuZRyGQQSfLadxWYqbOq/assets/static/optimized/rev-5c640fe/wp-content/uploads/2019/08/Toku-New-High-Res-Logo-2019-Small.png)  
+![Toku-New-High-Res-Logo-2019-Small](https://user-images.githubusercontent.com/3049864/147453738-c6226478-1725-4411-8eef-6c0923f95958.png)  
 Singapore based cloud communications provider for Voice, SMS, and APIs in APAC.
 
 ## Github Stats
